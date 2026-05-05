@@ -1,0 +1,1542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605052143162GGEQL</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505214316HF604H</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>ABP EI5A SIRENAS ÁNGEL GÓNZALEZ</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>ABP PROYECTO SOBRE LITERATURA aSTURIANA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ana López-Escobar Rodríguez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>La Situación de Aprendizaje “Sirenas”, inspirada en un poema de Ángel González, se justifica por la necesidad de acercar al alumnado de 5 años a la literatura asturiana desde una perspectiva significativa, creativa y adaptada a su desarrollo. A través de la metodología de Aprendizaje Basado en Proyectos (ABP), se favorece el descubrimiento del entorno cultural próximo, conectando la poesía con el imaginario infantil (el mar, las sirenas, la fantasía) y fomentando el gusto por el lenguaje literario desde edades tempranas.
+
+El impacto esperado se centra en el desarrollo de la expresión oral y artística, la imaginación y la sensibilidad estética, así como en el conocimiento y valoración del patrimonio cultural asturiano. Además, se promueve el trabajo cooperativo, la participación activa y la construcción de aprendizajes significativos, contribuyendo al desarrollo integral del alumnado.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778009745960</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>cc6f61c1-eabb-4af9-811c-0cb96178a948</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1.Intención educativa:</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.Intención educativa:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.Intención educativa:</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>cc6f61c1-eabb-4af9-811c-0cb96178a948</odePageId>
+      <odeBlockId>block-1778007091909-r6vthq6xm</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>cc6f61c1-eabb-4af9-811c-0cb96178a948</odePageId>
+          <odeBlockId>block-1778007091909-r6vthq6xm</odeBlockId>
+          <odeIdeviceId>idevice-1778007091906-lifyrq6n4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778007091906-lifyrq6n4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>cc6f61c1-eabb-4af9-811c-0cb96178a948</odePageId>
+      <odeBlockId>block-1778007274951-5l0m9j0gb</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>cc6f61c1-eabb-4af9-811c-0cb96178a948</odePageId>
+          <odeBlockId>block-1778007274951-5l0m9j0gb</odeBlockId>
+          <odeIdeviceId>idevice-1778007274949-yphw7rmzm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>La escritura en nuestra tierrina</strong></p>
+<p><br />Educación Infantil · 5 años · Tercer trimestre</p>
+<p><br />Descripción del proyecto:<br />• Proyecto globalizado de 9 semanas centrado en la escritura, la literatura asturiana, el juego verbal y la <br />autonomía.<br />• Hilo conductor: una sirena mensajera que llega al aula con retos para descubrir palabras, poemas, <br />canciones y pequeños textos de nuestra tierrina.<br />• Producto final: libro colectivo ilustrado y exposición oral para las familias.<br />Documento práctico para la tutora y para cualquier docente sustituto/a.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778007274949-yphw7rmzm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>La escritura en nuestra tierrina</strong></p>\n<p><br />Educación Infantil · 5 años · Tercer trimestre</p>\n<p><br />Descripción del proyecto:<br />• Proyecto globalizado de 9 semanas centrado en la escritura, la literatura asturiana, el juego verbal y la <br />autonomía.<br />• Hilo conductor: una sirena mensajera que llega al aula con retos para descubrir palabras, poemas, <br />canciones y pequeños textos de nuestra tierrina.<br />• Producto final: libro colectivo ilustrado y exposición oral para las familias.<br />Documento práctico para la tutora y para cualquier docente sustituto/a.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778007148469-b3p3k60ul</odePageId>
+  <odeParentPageId>cc6f61c1-eabb-4af9-811c-0cb96178a948</odeParentPageId>
+  <pageName>Justificación de su desarrollo y el impacto esperado.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Justificación de su desarrollo y el impacto esperado.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778007148469-b3p3k60ul</odePageId>
+      <odeBlockId>block-1778007324044-jfby13rls</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778007148469-b3p3k60ul</odePageId>
+          <odeBlockId>block-1778007324044-jfby13rls</odeBlockId>
+          <odeIdeviceId>idevice-1778007324042-peuy7zpry</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La Situación de Aprendizaje “Sirenas”, inspirada en un poema de Ángel González, se justifica por la necesidad de acercar al alumnado de 5 años a la literatura asturiana desde una perspectiva significativa, creativa y adaptada a su desarrollo. A través de la metodología de Aprendizaje Basado en Proyectos (ABP), se favorece el descubrimiento del entorno cultural próximo, conectando la poesía con el imaginario infantil (el mar, las sirenas, la fantasía) y fomentando el gusto por el lenguaje literario desde edades tempranas.</p>
+<p>El impacto esperado se centra en el desarrollo de la expresión oral y artística, la imaginación y la sensibilidad estética, así como en el conocimiento y valoración del patrimonio cultural asturiano. Además, se promueve el trabajo cooperativo, la participación activa y la construcción de aprendizajes significativos, contribuyendo al desarrollo integral del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778007324042-peuy7zpry","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La Situación de Aprendizaje “Sirenas”, inspirada en un poema de Ángel González, se justifica por la necesidad de acercar al alumnado de 5 años a la literatura asturiana desde una perspectiva significativa, creativa y adaptada a su desarrollo. A través de la metodología de Aprendizaje Basado en Proyectos (ABP), se favorece el descubrimiento del entorno cultural próximo, conectando la poesía con el imaginario infantil (el mar, las sirenas, la fantasía) y fomentando el gusto por el lenguaje literario desde edades tempranas.</p>\n<p>El impacto esperado se centra en el desarrollo de la expresión oral y artística, la imaginación y la sensibilidad estética, así como en el conocimiento y valoración del patrimonio cultural asturiano. Además, se promueve el trabajo cooperativo, la participación activa y la construcción de aprendizajes significativos, contribuyendo al desarrollo integral del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778007161990-mr6v1mpmx</odePageId>
+  <odeParentPageId>cc6f61c1-eabb-4af9-811c-0cb96178a948</odeParentPageId>
+  <pageName>Relación de la SdA con los ODS y Retos del siglo XXI.</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Relación de la SdA con los ODS y Retos del siglo XXI.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778007161990-mr6v1mpmx</odePageId>
+      <odeBlockId>block-1778007344006-22106mstw</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778007161990-mr6v1mpmx</odePageId>
+          <odeBlockId>block-1778007344006-22106mstw</odeBlockId>
+          <odeIdeviceId>idevice-1778007344004-viy1wor6o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La SdA “Sirenas”, inspirada en un poema de Ángel González, se alinea de forma significativa con los Objetivos de Desarrollo Sostenible y con los principales retos educativos del siglo XXI. En concreto, contribuye al ODS 4: Educación de calidad, al plantear una propuesta inclusiva, competencial y adaptada al desarrollo del alumnado de 5 años, donde se fomenta el aprendizaje activo a través del ABP, la experimentación y la expresión creativa. Asimismo, se relaciona con el ODS 11: Ciudades y comunidades sostenibles, al promover el conocimiento, la valoración y la conservación del patrimonio cultural asturiano, favoreciendo el sentimiento de pertenencia y el respeto por la identidad cultural propia.</p>
+<p>En cuanto a los retos del siglo XXI, esta SdA responde a la necesidad de formar personas capaces de desenvolverse en entornos cambiantes, potenciando habilidades como la creatividad, la comunicación, la colaboración y el pensamiento crítico desde edades tempranas. A través del trabajo por proyectos, el alumnado investiga, imagina y construye aprendizajes de manera significativa, desarrollando también su competencia emocional y social. Además, se fomenta la sensibilidad hacia el entorno natural (especialmente el mar, como elemento cercano al contexto asturiano), promoviendo actitudes de respeto y cuidado, y sentando las bases de una ciudadanía activa, responsable y comprometida con su cultura y su entorno.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778007344004-viy1wor6o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La SdA “Sirenas”, inspirada en un poema de Ángel González, se alinea de forma significativa con los Objetivos de Desarrollo Sostenible y con los principales retos educativos del siglo XXI. En concreto, contribuye al ODS 4: Educación de calidad, al plantear una propuesta inclusiva, competencial y adaptada al desarrollo del alumnado de 5 años, donde se fomenta el aprendizaje activo a través del ABP, la experimentación y la expresión creativa. Asimismo, se relaciona con el ODS 11: Ciudades y comunidades sostenibles, al promover el conocimiento, la valoración y la conservación del patrimonio cultural asturiano, favoreciendo el sentimiento de pertenencia y el respeto por la identidad cultural propia.</p>\n<p>En cuanto a los retos del siglo XXI, esta SdA responde a la necesidad de formar personas capaces de desenvolverse en entornos cambiantes, potenciando habilidades como la creatividad, la comunicación, la colaboración y el pensamiento crítico desde edades tempranas. A través del trabajo por proyectos, el alumnado investiga, imagina y construye aprendizajes de manera significativa, desarrollando también su competencia emocional y social. Además, se fomenta la sensibilidad hacia el entorno natural (especialmente el mar, como elemento cercano al contexto asturiano), promoviendo actitudes de respeto y cuidado, y sentando las bases de una ciudadanía activa, responsable y comprometida con su cultura y su entorno.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778007016188-xnsplxd5c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2.Elementos curriculares:</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.Elementos curriculares:</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778007016188-xnsplxd5c</odePageId>
+      <odeBlockId>block-1778007451435-t99zvvu3n</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778007016188-xnsplxd5c</odePageId>
+          <odeBlockId>block-1778007451435-t99zvvu3n</odeBlockId>
+          <odeIdeviceId>idevice-1778007451434-zzcoqolfd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La Situación de Aprendizaje “Sirenas”, inspirada en un poema de Ángel González, se enmarca dentro del currículo de Educación Infantil, integrando de forma globalizada los distintos elementos curriculares. Parte de los criterios de evaluación y saberes básicos vinculados a las áreas de Comunicación y representación de la realidad y Crecimiento en armonía, promoviendo el desarrollo de la competencia en comunicación lingüística, la conciencia y expresión cultural y la competencia personal, social y de aprender a aprender.</p>
+<p>A través de una metodología ABP, se diseñan situaciones significativas de aprendizaje en las que el alumnado explora la poesía, el entorno marino y el imaginario de las sirenas mediante actividades de expresión oral, plástica, corporal y musical. Todo ello se concreta en tareas competenciales que favorecen la participación activa, la creatividad y la construcción de aprendizajes conectados con su realidad y su contexto cultural.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778007451434-zzcoqolfd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La Situación de Aprendizaje “Sirenas”, inspirada en un poema de Ángel González, se enmarca dentro del currículo de Educación Infantil, integrando de forma globalizada los distintos elementos curriculares. Parte de los criterios de evaluación y saberes básicos vinculados a las áreas de Comunicación y representación de la realidad y Crecimiento en armonía, promoviendo el desarrollo de la competencia en comunicación lingüística, la conciencia y expresión cultural y la competencia personal, social y de aprender a aprender.</p>\n<p>A través de una metodología ABP, se diseñan situaciones significativas de aprendizaje en las que el alumnado explora la poesía, el entorno marino y el imaginario de las sirenas mediante actividades de expresión oral, plástica, corporal y musical. Todo ello se concreta en tareas competenciales que favorecen la participación activa, la creatividad y la construcción de aprendizajes conectados con su realidad y su contexto cultural.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778007179896-8rx1ixumf</odePageId>
+  <odeParentPageId>page-1778007016188-xnsplxd5c</odeParentPageId>
+  <pageName>Competencias clave</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Competencias clave</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778007179896-8rx1ixumf</odePageId>
+      <odeBlockId>block-1778007493816-0n6oo0lmt</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778007179896-8rx1ixumf</odePageId>
+          <odeBlockId>block-1778007493816-0n6oo0lmt</odeBlockId>
+          <odeIdeviceId>idevice-1778007493814-xl9ym32jj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>La SdA “Sirenas”,</strong> inspirada en un poema de Ángel González, se vincula de manera directa con el desarrollo de las competencias clave, contribuyendo al logro del perfil de salida del alumnado al finalizar la etapa.</p>
+<p>En relación con la competencia en<strong> comunicación lingüística (CCL)</strong>, se favorece la comprensión y expresión oral a través de la escucha, recreación, dramatización y grabación del poema, culminando en la<strong> elaboración de un podcast, </strong>donde el alumnado participa en la narración, recitado y expresión oral adaptada a su nivel. <strong>La competencia en conciencia y expresión culturales (CCEC) </strong>se potencia mediante el acercamiento a la literatura asturiana y la creación de producciones artísticas propias, así como la reinterpretación del poema en distintos lenguajes expresivos.</p>
+<p><strong>La competencia digital (CD) a</strong>dquiere especial relevancia tanto en la creación del podcast (uso básico y guiado de herramientas de grabación y reproducción) como en la <strong>participación en una experiencia de gamificación diseñada en Genially,</strong> titulada “El camino de las sirenas”, estructurada en 9 retos. A través de esta propuesta, el alumnado interactúa con recursos digitales de forma motivadora, desarrollando habilidades iniciales en el uso responsable de la tecnología.</p>
+<p>Asimismo, se desarrolla <strong>la competencia personal, social y de aprender a aprender (CPSAA)</strong>, ya que el alumnado trabaja de forma cooperativa, participa en la superación de retos, gestiona emociones y adquiere progresivamente mayor autonomía. <strong>La competencia ciudadana (CC) </strong>se fomenta mediante el respeto, la escucha activa y la colaboración en el desarrollo del proyecto y en la resolución de los retos planteados.</p>
+<p>Por su parte,<strong> la competencia emprendedora (CE)</strong> se evidencia en la implicación del alumnado en la planificación y consecución de los retos de la gamificación, así como en la creación del producto final (podcast), donde aportan ideas, toman decisiones y participan activamente en el proceso.</p>
+<p>De este modo, la SdA integra de manera significativa herramientas digitales, metodologías activas y creación de productos reales, favoreciendo un desarrollo competencial global, coherente con los descriptores operativos del perfil de salida y adaptado al nivel evolutivo del alumnado de Educación Infantil.<br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778007493814-xl9ym32jj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>La SdA “Sirenas”,</strong> inspirada en un poema de Ángel González, se vincula de manera directa con el desarrollo de las competencias clave, contribuyendo al logro del perfil de salida del alumnado al finalizar la etapa.</p>\n<p>En relación con la competencia en<strong> comunicación lingüística (CCL)</strong>, se favorece la comprensión y expresión oral a través de la escucha, recreación, dramatización y grabación del poema, culminando en la<strong> elaboración de un podcast, </strong>donde el alumnado participa en la narración, recitado y expresión oral adaptada a su nivel. <strong>La competencia en conciencia y expresión culturales (CCEC) </strong>se potencia mediante el acercamiento a la literatura asturiana y la creación de producciones artísticas propias, así como la reinterpretación del poema en distintos lenguajes expresivos.</p>\n<p><strong>La competencia digital (CD) a</strong>dquiere especial relevancia tanto en la creación del podcast (uso básico y guiado de herramientas de grabación y reproducción) como en la <strong>participación en una experiencia de gamificación diseñada en Genially,</strong> titulada “El camino de las sirenas”, estructurada en 9 retos. A través de esta propuesta, el alumnado interactúa con recursos digitales de forma motivadora, desarrollando habilidades iniciales en el uso responsable de la tecnología.</p>\n<p>Asimismo, se desarrolla <strong>la competencia personal, social y de aprender a aprender (CPSAA)</strong>, ya que el alumnado trabaja de forma cooperativa, participa en la superación de retos, gestiona emociones y adquiere progresivamente mayor autonomía. <strong>La competencia ciudadana (CC) </strong>se fomenta mediante el respeto, la escucha activa y la colaboración en el desarrollo del proyecto y en la resolución de los retos planteados.</p>\n<p>Por su parte,<strong> la competencia emprendedora (CE)</strong> se evidencia en la implicación del alumnado en la planificación y consecución de los retos de la gamificación, así como en la creación del producto final (podcast), donde aportan ideas, toman decisiones y participan activamente en el proceso.</p>\n<p>De este modo, la SdA integra de manera significativa herramientas digitales, metodologías activas y creación de productos reales, favoreciendo un desarrollo competencial global, coherente con los descriptores operativos del perfil de salida y adaptado al nivel evolutivo del alumnado de Educación Infantil.<br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778007194411-dcl6vijo3</odePageId>
+  <odeParentPageId>page-1778007016188-xnsplxd5c</odeParentPageId>
+  <pageName>Competencias específicas: </pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Competencias específicas: </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778007194411-dcl6vijo3</odePageId>
+      <odeBlockId>block-1778007602082-941quxn74</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778007194411-dcl6vijo3</odePageId>
+          <odeBlockId>block-1778007602082-941quxn74</odeBlockId>
+          <odeIdeviceId>idevice-1778007602080-ougte3c5o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En la SdA “Sirenas”, inspirada en un poema de Ángel González, se desarrollan diversas competencias específicas propias de la etapa de Educación Infantil, especialmente vinculadas al área de Comunicación y representación de la realidad, en conexión con otras áreas:</p>
+<ul>
+<li>Expresar y comunicar de manera creativa ideas, sentimientos y vivencias, utilizando diferentes lenguajes (oral, corporal, artístico y musical). Esta competencia se trabaja a través del recitado del poema, su dramatización y la participación en la creación del podcast.<br /></li>
+<li>Interpretar y comprender mensajes y producciones culturales, iniciándose en el disfrute de textos literarios. El alumnado se acerca a la poesía de forma significativa, comprendiendo su sentido global y relacionándolo con su propio imaginario.<br /></li>
+<li>Explorar y utilizar distintos materiales, técnicas y recursos para la expresión y representación, desarrollando la creatividad. Se concreta en producciones plásticas, escénicas y en la participación en la gamificación “El camino de las sirenas”.<br /></li>
+<li>Iniciarse en el uso funcional y responsable de herramientas digitales, integrando recursos tecnológicos en el proceso de aprendizaje. Esta competencia se desarrolla mediante la elaboración del podcast y la interacción con la actividad gamificada diseñada en Genially.<br /></li>
+<li>Participar en situaciones de aprendizaje compartido, desarrollando habilidades sociales como la cooperación, la escucha y el respeto. Se fomenta especialmente en la resolución de los 9 retos planteados en la gamificación y en la creación colectiva del producto final.<br /></li>
+<li>Desarrollar la curiosidad, la iniciativa y el pensamiento creativo, implicándose activamente en el proceso de aprendizaje. El enfoque ABP permite que el alumnado investigue, imagine y proponga soluciones dentro del proyecto.<br /></li>
+</ul>
+<p>Estas competencias específicas se trabajan de manera globalizada y contextualizada, favoreciendo un aprendizaje significativo, motivador y adaptado al nivel evolutivo del alumnado de 5 años.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778007602080-ougte3c5o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la SdA “Sirenas”, inspirada en un poema de Ángel González, se desarrollan diversas competencias específicas propias de la etapa de Educación Infantil, especialmente vinculadas al área de Comunicación y representación de la realidad, en conexión con otras áreas:</p>\n<ul>\n<li>Expresar y comunicar de manera creativa ideas, sentimientos y vivencias, utilizando diferentes lenguajes (oral, corporal, artístico y musical). Esta competencia se trabaja a través del recitado del poema, su dramatización y la participación en la creación del podcast.<br /></li>\n<li>Interpretar y comprender mensajes y producciones culturales, iniciándose en el disfrute de textos literarios. El alumnado se acerca a la poesía de forma significativa, comprendiendo su sentido global y relacionándolo con su propio imaginario.<br /></li>\n<li>Explorar y utilizar distintos materiales, técnicas y recursos para la expresión y representación, desarrollando la creatividad. Se concreta en producciones plásticas, escénicas y en la participación en la gamificación “El camino de las sirenas”.<br /></li>\n<li>Iniciarse en el uso funcional y responsable de herramientas digitales, integrando recursos tecnológicos en el proceso de aprendizaje. Esta competencia se desarrolla mediante la elaboración del podcast y la interacción con la actividad gamificada diseñada en Genially.<br /></li>\n<li>Participar en situaciones de aprendizaje compartido, desarrollando habilidades sociales como la cooperación, la escucha y el respeto. Se fomenta especialmente en la resolución de los 9 retos planteados en la gamificación y en la creación colectiva del producto final.<br /></li>\n<li>Desarrollar la curiosidad, la iniciativa y el pensamiento creativo, implicándose activamente en el proceso de aprendizaje. El enfoque ABP permite que el alumnado investigue, imagine y proponga soluciones dentro del proyecto.<br /></li>\n</ul>\n<p>Estas competencias específicas se trabajan de manera globalizada y contextualizada, favoreciendo un aprendizaje significativo, motivador y adaptado al nivel evolutivo del alumnado de 5 años.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778007227625-ns58q83yt</odePageId>
+  <odeParentPageId>page-1778007016188-xnsplxd5c</odeParentPageId>
+  <pageName>Saberes Básicos:</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Saberes Básicos:</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778007227625-ns58q83yt</odePageId>
+      <odeBlockId>block-1778007658098-v09tt48ff</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778007227625-ns58q83yt</odePageId>
+          <odeBlockId>block-1778007658098-v09tt48ff</odeBlockId>
+          <odeIdeviceId>idevice-1778007658096-m1hax92x1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En la SdA “Sirenas”, inspirada en un poema de Ángel González, los saberes básicos se integran de manera globalizada y significativa, favoreciendo la conexión entre conocimientos, habilidades y actitudes propias de la etapa de Educación Infantil.</p>
+<p>En el área de Comunicación y representación de la realidad, se profundiza en saberes relacionados con la expresión y comprensión oral, como la escucha atenta, la participación en intercambios comunicativos, la ampliación de vocabulario (especialmente vinculado al mar, las sirenas y el mundo fantástico) y la producción de mensajes orales con intención comunicativa. Se incorporan también saberes de educación literaria, acercando al alumnado al lenguaje poético mediante el ritmo, la rima, la entonación y la interpretación de textos, favoreciendo el disfrute y la sensibilidad hacia la literatura. Estos aprendizajes se concretan en actividades como el recitado, la dramatización y la creación de un podcast, donde se integran habilidades lingüísticas y expresivas en un producto real.</p>
+<p>Asimismo, se desarrollan saberes vinculados a los lenguajes artísticos (plástico, musical y corporal), explorando diferentes materiales, técnicas y formas de expresión para representar el imaginario de las sirenas y el entorno marino. Esto incluye la experimentación con colores, sonidos, movimiento y dramatización, potenciando la creatividad y la capacidad simbólica.</p>
+<p>En relación con los saberes digitales, el alumnado se inicia en el uso funcional, seguro y guiado de herramientas tecnológicas. Esto se concreta tanto en la grabación y escucha del podcast como en la participación en la gamificación “El camino de las sirenas”, diseñada en Genially. A través de los 9 retos, los niños y niñas exploran entornos digitales interactivos, desarrollando habilidades básicas como la atención, la toma de decisiones y la comprensión de consignas visuales y auditivas.</p>
+<p>Desde el área de Crecimiento en armonía, se trabajan saberes relacionados con la educación emocional, la identificación y expresión de sentimientos, la autoestima y la progresiva autonomía. La dinámica de trabajo cooperativo en el ABP y la superación conjunta de retos favorecen habilidades sociales como la empatía, la escucha, el respeto y la resolución pacífica de conflictos.</p>
+<p>Por último, en el área de Descubrimiento y exploración del entorno, se integran saberes vinculados al medio natural, centrados en el conocimiento del mar como elemento cercano al contexto asturiano: sus características, sonidos, elementos y seres imaginarios asociados. Además, se promueve el conocimiento y la valoración del patrimonio cultural, acercando al alumnado a la literatura asturiana y fomentando el sentido de pertenencia y el respeto por la cultura propia.</p>
+<p>En conjunto, estos saberes básicos se trabajan de forma interrelacionada y contextualizada, permitiendo al alumnado construir aprendizajes significativos, desarrollar múltiples lenguajes de expresión y participar activamente en su propio proceso de aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778007658096-m1hax92x1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la SdA “Sirenas”, inspirada en un poema de Ángel González, los saberes básicos se integran de manera globalizada y significativa, favoreciendo la conexión entre conocimientos, habilidades y actitudes propias de la etapa de Educación Infantil.</p>\n<p>En el área de Comunicación y representación de la realidad, se profundiza en saberes relacionados con la expresión y comprensión oral, como la escucha atenta, la participación en intercambios comunicativos, la ampliación de vocabulario (especialmente vinculado al mar, las sirenas y el mundo fantástico) y la producción de mensajes orales con intención comunicativa. Se incorporan también saberes de educación literaria, acercando al alumnado al lenguaje poético mediante el ritmo, la rima, la entonación y la interpretación de textos, favoreciendo el disfrute y la sensibilidad hacia la literatura. Estos aprendizajes se concretan en actividades como el recitado, la dramatización y la creación de un podcast, donde se integran habilidades lingüísticas y expresivas en un producto real.</p>\n<p>Asimismo, se desarrollan saberes vinculados a los lenguajes artísticos (plástico, musical y corporal), explorando diferentes materiales, técnicas y formas de expresión para representar el imaginario de las sirenas y el entorno marino. Esto incluye la experimentación con colores, sonidos, movimiento y dramatización, potenciando la creatividad y la capacidad simbólica.</p>\n<p>En relación con los saberes digitales, el alumnado se inicia en el uso funcional, seguro y guiado de herramientas tecnológicas. Esto se concreta tanto en la grabación y escucha del podcast como en la participación en la gamificación “El camino de las sirenas”, diseñada en Genially. A través de los 9 retos, los niños y niñas exploran entornos digitales interactivos, desarrollando habilidades básicas como la atención, la toma de decisiones y la comprensión de consignas visuales y auditivas.</p>\n<p>Desde el área de Crecimiento en armonía, se trabajan saberes relacionados con la educación emocional, la identificación y expresión de sentimientos, la autoestima y la progresiva autonomía. La dinámica de trabajo cooperativo en el ABP y la superación conjunta de retos favorecen habilidades sociales como la empatía, la escucha, el respeto y la resolución pacífica de conflictos.</p>\n<p>Por último, en el área de Descubrimiento y exploración del entorno, se integran saberes vinculados al medio natural, centrados en el conocimiento del mar como elemento cercano al contexto asturiano: sus características, sonidos, elementos y seres imaginarios asociados. Además, se promueve el conocimiento y la valoración del patrimonio cultural, acercando al alumnado a la literatura asturiana y fomentando el sentido de pertenencia y el respeto por la cultura propia.</p>\n<p>En conjunto, estos saberes básicos se trabajan de forma interrelacionada y contextualizada, permitiendo al alumnado construir aprendizajes significativos, desarrollar múltiples lenguajes de expresión y participar activamente en su propio proceso de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778007691602-hf0gwd1ct</odePageId>
+  <odeParentPageId>page-1778007227625-ns58q83yt</odeParentPageId>
+  <pageName>Objetivos didácticos</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Objetivos didácticos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778007691602-hf0gwd1ct</odePageId>
+      <odeBlockId>block-1778007709192-i22lk2oxx</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778007691602-hf0gwd1ct</odePageId>
+          <odeBlockId>block-1778007709192-i22lk2oxx</odeBlockId>
+          <odeIdeviceId>idevice-1778007709190-d3u614hti</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p></p>
+<p>En la SdA “Sirenas”, inspirada en un poema de Ángel González, los saberes básicos se articulan de manera coherente con los objetivos didácticos, favoreciendo un aprendizaje globalizado y significativo:</p>
+<ul>
+<li>Los saberes relacionados con la expresión y comprensión oral y la educación literaria se vinculan directamente con el objetivo de escuchar, comprender y recrear textos breves, ya que el alumnado trabaja el poema a través del recitado, la dramatización y su recreación en distintos formatos (incluido el podcast). Asimismo, estos saberes permiten valorar la literatura como disfrute y como parte del patrimonio cercano, acercando la poesía al contexto asturiano.</li>
+<li>Los saberes vinculados a la conciencia fonológica (ritmo, rima, sonidos del lenguaje) se relacionan con el objetivo de desarrollar habilidades fonológicas, trabajando la identificación de rimas, la segmentación silábica y la discriminación auditiva a partir del propio poema y de juegos lingüísticos asociados.</li>
+<li>En cuanto a los saberes sobre la lengua escrita, estos se conectan con el objetivo de descubrir la escritura como herramienta de comunicación, así como con la participación en situaciones de escritura emergente. El alumnado produce textos sencillos (etiquetas, títulos, palabras clave del proyecto, nombres de personajes o elementos del mar), comprendiendo progresivamente su funcionalidad.</li>
+<li>Los saberes relacionados con la ampliación del vocabulario se alinean con el objetivo de enriquecer el léxico, incorporando términos vinculados a Asturias, el mar, la naturaleza y el mundo fantástico de las sirenas, favoreciendo su uso en contextos comunicativos significativos.</li>
+<li>Los saberes del área de Crecimiento en armonía, especialmente los relacionados con la autonomía, la gestión emocional y la interacción social, se vinculan con el objetivo de desarrollar hábitos de trabajo autónomo y cooperativo. Esto se concreta en dinámicas de grupo, toma de decisiones compartidas y participación en los retos de la gamificación.</li>
+<li>Finalmente, los saberes vinculados a la exploración del entorno natural y cultural se relacionan tanto con la ampliación de conocimientos sobre el mar como con el objetivo de valorar la literatura y la tradición oral como parte del patrimonio cercano, integrando cultura, entorno y aprendizaje.</li>
+<li>De este modo, los saberes básicos no se trabajan de forma aislada, sino en conexión directa con los objetivos didácticos, dando sentido al proceso de enseñanza-aprendizaje dentro de una propuesta motivadora y contextualizada.<br /> </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778007709190-d3u614hti","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<p>En la SdA “Sirenas”, inspirada en un poema de Ángel González, los saberes básicos se articulan de manera coherente con los objetivos didácticos, favoreciendo un aprendizaje globalizado y significativo:</p>\n<ul>\n<li>Los saberes relacionados con la expresión y comprensión oral y la educación literaria se vinculan directamente con el objetivo de escuchar, comprender y recrear textos breves, ya que el alumnado trabaja el poema a través del recitado, la dramatización y su recreación en distintos formatos (incluido el podcast). Asimismo, estos saberes permiten valorar la literatura como disfrute y como parte del patrimonio cercano, acercando la poesía al contexto asturiano.</li>\n<li>Los saberes vinculados a la conciencia fonológica (ritmo, rima, sonidos del lenguaje) se relacionan con el objetivo de desarrollar habilidades fonológicas, trabajando la identificación de rimas, la segmentación silábica y la discriminación auditiva a partir del propio poema y de juegos lingüísticos asociados.</li>\n<li>En cuanto a los saberes sobre la lengua escrita, estos se conectan con el objetivo de descubrir la escritura como herramienta de comunicación, así como con la participación en situaciones de escritura emergente. El alumnado produce textos sencillos (etiquetas, títulos, palabras clave del proyecto, nombres de personajes o elementos del mar), comprendiendo progresivamente su funcionalidad.</li>\n<li>Los saberes relacionados con la ampliación del vocabulario se alinean con el objetivo de enriquecer el léxico, incorporando términos vinculados a Asturias, el mar, la naturaleza y el mundo fantástico de las sirenas, favoreciendo su uso en contextos comunicativos significativos.</li>\n<li>Los saberes del área de Crecimiento en armonía, especialmente los relacionados con la autonomía, la gestión emocional y la interacción social, se vinculan con el objetivo de desarrollar hábitos de trabajo autónomo y cooperativo. Esto se concreta en dinámicas de grupo, toma de decisiones compartidas y participación en los retos de la gamificación.</li>\n<li>Finalmente, los saberes vinculados a la exploración del entorno natural y cultural se relacionan tanto con la ampliación de conocimientos sobre el mar como con el objetivo de valorar la literatura y la tradición oral como parte del patrimonio cercano, integrando cultura, entorno y aprendizaje.</li>\n<li>De este modo, los saberes básicos no se trabajan de forma aislada, sino en conexión directa con los objetivos didácticos, dando sentido al proceso de enseñanza-aprendizaje dentro de una propuesta motivadora y contextualizada.<br /> </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778007242344-k19hwqf1t</odePageId>
+  <odeParentPageId>page-1778007016188-xnsplxd5c</odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778007242344-k19hwqf1t</odePageId>
+      <odeBlockId>block-1778007793679-7as78h2i4</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778007242344-k19hwqf1t</odePageId>
+          <odeBlockId>block-1778007793679-7as78h2i4</odeBlockId>
+          <odeIdeviceId>idevice-1778007793677-xotumwjlt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En la SdA “Sirenas”, inspirada en un poema de Ángel González, los criterios de evaluación se plantean en coherencia con las competencias específicas trabajadas, permitiendo valorar el progreso del alumnado de forma global, continua y adaptada a su nivel evolutivo:</p>
+<ul>
+<li>Participa en situaciones de comunicación oral, escuchando con atención, comprendiendo el sentido global del poema y expresando ideas, emociones o vivencias relacionadas, tanto en actividades de aula como en la elaboración del podcast.</li>
+<li>Se inicia en el disfrute y comprensión de textos literarios, mostrando interés por la poesía, reproduciendo fragmentos sencillos (recitado) y participando en su dramatización con apoyo gestual y corporal.</li>
+<li>Expresa de manera creativa ideas y emociones a través de distintos lenguajes (plástico, musical y corporal), realizando producciones propias relacionadas con el proyecto (dibujos, representaciones, creaciones colectivas).</li>
+<li>Explora y utiliza materiales, técnicas y recursos de forma guiada, mostrando iniciativa y creatividad en las actividades propuestas, especialmente en los retos de la gamificación “El camino de las sirenas”.</li>
+<li>Se inicia en el uso de herramientas digitales de forma guiada y responsable, participando en la grabación del podcast y en la interacción con actividades diseñadas en Genially, comprendiendo consignas básicas y siguiendo instrucciones.</li>
+<li>Participa en actividades cooperativas, mostrando actitudes de respeto, escucha y colaboración con el grupo, especialmente en la resolución de los 9 retos planteados y en la creación del producto final.</li>
+<li>Identifica y expresa emociones propias y ajenas, regulando progresivamente su comportamiento en situaciones de aprendizaje compartido.</li>
+<li>Muestra curiosidad e interés por el entorno natural y cultural, reconociendo elementos básicos del mar y valorando el patrimonio literario cercano.</li>
+</ul>
+<p><br />Estos criterios permiten evaluar no solo los aprendizajes adquiridos, sino también el grado de implicación, participación y desarrollo competencial del alumnado dentro de una propuesta activa y significativa.<br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778007793677-xotumwjlt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la SdA “Sirenas”, inspirada en un poema de Ángel González, los criterios de evaluación se plantean en coherencia con las competencias específicas trabajadas, permitiendo valorar el progreso del alumnado de forma global, continua y adaptada a su nivel evolutivo:</p>\n<ul>\n<li>Participa en situaciones de comunicación oral, escuchando con atención, comprendiendo el sentido global del poema y expresando ideas, emociones o vivencias relacionadas, tanto en actividades de aula como en la elaboración del podcast.</li>\n<li>Se inicia en el disfrute y comprensión de textos literarios, mostrando interés por la poesía, reproduciendo fragmentos sencillos (recitado) y participando en su dramatización con apoyo gestual y corporal.</li>\n<li>Expresa de manera creativa ideas y emociones a través de distintos lenguajes (plástico, musical y corporal), realizando producciones propias relacionadas con el proyecto (dibujos, representaciones, creaciones colectivas).</li>\n<li>Explora y utiliza materiales, técnicas y recursos de forma guiada, mostrando iniciativa y creatividad en las actividades propuestas, especialmente en los retos de la gamificación “El camino de las sirenas”.</li>\n<li>Se inicia en el uso de herramientas digitales de forma guiada y responsable, participando en la grabación del podcast y en la interacción con actividades diseñadas en Genially, comprendiendo consignas básicas y siguiendo instrucciones.</li>\n<li>Participa en actividades cooperativas, mostrando actitudes de respeto, escucha y colaboración con el grupo, especialmente en la resolución de los 9 retos planteados y en la creación del producto final.</li>\n<li>Identifica y expresa emociones propias y ajenas, regulando progresivamente su comportamiento en situaciones de aprendizaje compartido.</li>\n<li>Muestra curiosidad e interés por el entorno natural y cultural, reconociendo elementos básicos del mar y valorando el patrimonio literario cercano.</li>\n</ul>\n<p><br />Estos criterios permiten evaluar no solo los aprendizajes adquiridos, sino también el grado de implicación, participación y desarrollo competencial del alumnado dentro de una propuesta activa y significativa.<br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778007880405-88uoozsy8</odePageId>
+  <odeParentPageId>page-1778007242344-k19hwqf1t</odeParentPageId>
+  <pageName>Rúbricas e instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbricas e instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778007880405-88uoozsy8</odePageId>
+      <odeBlockId>block-1778007963909-n550rjcwk</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778007880405-88uoozsy8</odePageId>
+          <odeBlockId>block-1778007963909-n550rjcwk</odeBlockId>
+          <odeIdeviceId>idevice-1778007963904-sbfs8j8p3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se presenta la rúbrica de evaluación de la SdA “Sirenas”, inspirada en un poema de Ángel González, organizada por indicadores y niveles de logro:</p>
+<p><img src="{{context_path}}/content/resources/rubrica evaluacion 1.png" title="Rúbrica evaluación" width="1536" height="1024" alt="Rubrica evaluación ABP" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778007963904-sbfs8j8p3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se presenta la rúbrica de evaluación de la SdA “Sirenas”, inspirada en un poema de Ángel González, organizada por indicadores y niveles de logro:</p>\n<p><img src=\"{{context_path}}/content/resources/rubrica evaluacion 1.png\" title=\"Rúbrica evaluación\" width=\"1536\" height=\"1024\" alt=\"Rubrica evaluación ABP\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778007897780-w5vg6ls7j</odePageId>
+  <odeParentPageId>page-1778007242344-k19hwqf1t</odeParentPageId>
+  <pageName>Rúbrica Libro Proyecto</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica Libro Proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778007897780-w5vg6ls7j</odePageId>
+      <odeBlockId>block-1778008059442-jeeox1z3a</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778007897780-w5vg6ls7j</odePageId>
+          <odeBlockId>block-1778008059442-jeeox1z3a</odeBlockId>
+          <odeIdeviceId>idevice-1778008059439-66u1a9tkn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br />El panel de proyecto, elaborado de forma cooperativa, se convierte en el eje organizador de los aprendizajes de la SdA. En él, el alumnado va construyendo mapas mentales donde recoge ideas previas, nuevos descubrimientos, vocabulario y conexiones relacionadas con el proyecto “Sirenas”. Este proceso favorece la reflexión, la estructuración del pensamiento y la toma de conciencia sobre lo aprendido.</p>
+<p>A partir de este panel, se elabora de manera conjunta un libro de proyecto, que recopila las producciones del alumnado (dibujos, textos emergentes, palabras clave, secuencias del poema, etc.). Este libro no solo actúa como producto final, sino también como herramienta de evaluación y memoria del aprendizaje. Finalmente, pasa a formar parte de la biblioteca de aula, convirtiéndose en un recurso compartido que puede ser revisitado, reforzando el valor del trabajo realizado y el gusto por la lectura y la creación colectiva.</p>
+<p><img src="{{context_path}}/content/resources/RUBRICA EVALUACION LIBRO PROYECTO.png" title="Rúbrica evaluación Libro Proyecto" width="1536" height="1024" alt="Rúbrica libro Proyecto" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778008059439-66u1a9tkn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br />El panel de proyecto, elaborado de forma cooperativa, se convierte en el eje organizador de los aprendizajes de la SdA. En él, el alumnado va construyendo mapas mentales donde recoge ideas previas, nuevos descubrimientos, vocabulario y conexiones relacionadas con el proyecto “Sirenas”. Este proceso favorece la reflexión, la estructuración del pensamiento y la toma de conciencia sobre lo aprendido.</p>\n<p>A partir de este panel, se elabora de manera conjunta un libro de proyecto, que recopila las producciones del alumnado (dibujos, textos emergentes, palabras clave, secuencias del poema, etc.). Este libro no solo actúa como producto final, sino también como herramienta de evaluación y memoria del aprendizaje. Finalmente, pasa a formar parte de la biblioteca de aula, convirtiéndose en un recurso compartido que puede ser revisitado, reforzando el valor del trabajo realizado y el gusto por la lectura y la creación colectiva.</p>\n<p><img src=\"{{context_path}}/content/resources/RUBRICA EVALUACION LIBRO PROYECTO.png\" title=\"Rúbrica evaluación Libro Proyecto\" width=\"1536\" height=\"1024\" alt=\"Rúbrica libro Proyecto\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778007918949-4dhut3ucb</odePageId>
+  <odeParentPageId>page-1778007242344-k19hwqf1t</odeParentPageId>
+  <pageName>Registro de observación semanal</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Registro de observación semanal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778007918949-4dhut3ucb</odePageId>
+      <odeBlockId>block-1778008128507-exewuvtcj</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778007918949-4dhut3ucb</odePageId>
+          <odeBlockId>block-1778008128507-exewuvtcj</odeBlockId>
+          <odeIdeviceId>idevice-1778008128505-3nomh2sxn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El registro de observación semanal permite recoger de forma sistemática la evolución del alumnado a lo largo de la SdA “Sirenas”, inspirada en un poema de Ángel González. En él se anotan aspectos clave como la participación, la expresión oral, la conciencia fonológica, la interacción con el grupo, la autonomía y el progreso en las tareas propuestas.</p>
+<p>Este instrumento facilita una evaluación continua y formativa, permitiendo ajustar la intervención educativa a las necesidades del alumnado y valorar su desarrollo competencial en contextos reales de aprendizaje.</p>
+<p><img src="{{context_path}}/content/resources/Registro de observacion personal.png" title="Registro observación " width="1536" height="1024" alt="Registro observación personal" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778008128505-3nomh2sxn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El registro de observación semanal permite recoger de forma sistemática la evolución del alumnado a lo largo de la SdA “Sirenas”, inspirada en un poema de Ángel González. En él se anotan aspectos clave como la participación, la expresión oral, la conciencia fonológica, la interacción con el grupo, la autonomía y el progreso en las tareas propuestas.</p>\n<p>Este instrumento facilita una evaluación continua y formativa, permitiendo ajustar la intervención educativa a las necesidades del alumnado y valorar su desarrollo competencial en contextos reales de aprendizaje.</p>\n<p><img src=\"{{context_path}}/content/resources/Registro de observacion personal.png\" title=\"Registro observación \" width=\"1536\" height=\"1024\" alt=\"Registro observación personal\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778007934124-lmnslx07v</odePageId>
+  <odeParentPageId>page-1778007242344-k19hwqf1t</odeParentPageId>
+  <pageName>Autoevaluación del alumnado</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoevaluación del alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778007934124-lmnslx07v</odePageId>
+      <odeBlockId>block-1778008202566-g8ngxxlgc</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778007934124-lmnslx07v</odePageId>
+          <odeBlockId>block-1778008202566-g8ngxxlgc</odeBlockId>
+          <odeIdeviceId>idevice-1778008202564-37qoq272e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La autoevaluación infantil, planteada como una rutina quincenal los  viernes, se concibe como un momento breve, guiado y significativo en el que el alumnado toma conciencia de sus propios aprendizajes dentro de la SdA “Sirenas”, inspirada en un poema de Ángel González.</p>
+<p>En primer lugar, se presentan tres imágenes, producciones o momentos vividos durante la semana (por ejemplo: el recitado del poema, una actividad de escritura o un reto de la gamificación). Esto ayuda a activar la memoria y facilita que el alumnado conecte con experiencias concretas.</p>
+<p>A continuación, cada niño o niña valora su participación señalando una carita (contenta, neutra o triste) en relación con aspectos clave como: he escuchado, he hablado, he probado a escribir y he cuidado los materiales. Este paso permite una primera aproximación a la reflexión sobre su propio comportamiento y aprendizaje de forma visual y accesible.</p>
+<p>Por último, se realiza una puesta en común oral, donde el alumnado completa la frase: “Esta semana he aprendido…”. El docente puede apoyar con preguntas guía o ejemplos, favoreciendo que los niños y niñas expresen sus logros, descubrimientos o dificultades.</p>
+<p>Esta rutina fomenta la metacognición desde edades tempranas, el desarrollo del lenguaje oral, la autoestima y la responsabilidad sobre el propio aprendizaje, integrándose de manera natural en la dinámica del aula.</p>
+<p>Se recoge en el dossier del alumnado al finalizar el trimestre.</p>
+<p><img src="{{context_path}}/content/resources/lo que hemos aprendido.png" title="Lo que hemos aprendido" width="1535" height="1024" alt="Lo que hemos aprendido modelo" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778008202564-37qoq272e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La autoevaluación infantil, planteada como una rutina quincenal los  viernes, se concibe como un momento breve, guiado y significativo en el que el alumnado toma conciencia de sus propios aprendizajes dentro de la SdA “Sirenas”, inspirada en un poema de Ángel González.</p>\n<p>En primer lugar, se presentan tres imágenes, producciones o momentos vividos durante la semana (por ejemplo: el recitado del poema, una actividad de escritura o un reto de la gamificación). Esto ayuda a activar la memoria y facilita que el alumnado conecte con experiencias concretas.</p>\n<p>A continuación, cada niño o niña valora su participación señalando una carita (contenta, neutra o triste) en relación con aspectos clave como: he escuchado, he hablado, he probado a escribir y he cuidado los materiales. Este paso permite una primera aproximación a la reflexión sobre su propio comportamiento y aprendizaje de forma visual y accesible.</p>\n<p>Por último, se realiza una puesta en común oral, donde el alumnado completa la frase: “Esta semana he aprendido…”. El docente puede apoyar con preguntas guía o ejemplos, favoreciendo que los niños y niñas expresen sus logros, descubrimientos o dificultades.</p>\n<p>Esta rutina fomenta la metacognición desde edades tempranas, el desarrollo del lenguaje oral, la autoestima y la responsabilidad sobre el propio aprendizaje, integrándose de manera natural en la dinámica del aula.</p>\n<p>Se recoge en el dossier del alumnado al finalizar el trimestre.</p>\n<p><img src=\"{{context_path}}/content/resources/lo que hemos aprendido.png\" title=\"Lo que hemos aprendido\" width=\"1535\" height=\"1024\" alt=\"Lo que hemos aprendido modelo\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778007034651-s9tc1no6j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>   3. Metodologías activas:</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>   3. Metodologías activas:</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778007034651-s9tc1no6j</odePageId>
+      <odeBlockId>block-1778009258027-fbajbv1at</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778007034651-s9tc1no6j</odePageId>
+          <odeBlockId>block-1778009258027-fbajbv1at</odeBlockId>
+          <odeIdeviceId>idevice-1778009258025-kz9grwol3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La SdA “Sirenas”, inspirada en un poema de Ángel González, se fundamenta en el uso de metodologías activas, donde el alumnado es el verdadero protagonista de su aprendizaje. Estas metodologías parten de sus intereses, fomentan la curiosidad y promueven la participación a través de experiencias significativas y conectadas con su realidad.</p>
+<p>El proyecto se articula principalmente en torno al Aprendizaje Basado en Proyectos (ABP), que permite investigar, crear y dar respuesta a un reto común. A ello se suman estrategias como la gamificación, que introduce el juego y la narrativa como motores de motivación; el aprendizaje cooperativo, que favorece la interacción, la ayuda mutua y la responsabilidad compartida; y las estaciones de aprendizaje y grupos interactivos, que facilitan la atención a la diversidad y el aprendizaje activo mediante la manipulación, la experimentación y el diálogo.</p>
+<p>De este modo, “Sirenas” ofrece un entorno dinámico, inclusivo y motivador, en el que el alumnado aprende haciendo, compartiendo y disfrutando del proceso.<br /> <br /> <br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778009258025-kz9grwol3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La SdA “Sirenas”, inspirada en un poema de Ángel González, se fundamenta en el uso de metodologías activas, donde el alumnado es el verdadero protagonista de su aprendizaje. Estas metodologías parten de sus intereses, fomentan la curiosidad y promueven la participación a través de experiencias significativas y conectadas con su realidad.</p>\n<p>El proyecto se articula principalmente en torno al Aprendizaje Basado en Proyectos (ABP), que permite investigar, crear y dar respuesta a un reto común. A ello se suman estrategias como la gamificación, que introduce el juego y la narrativa como motores de motivación; el aprendizaje cooperativo, que favorece la interacción, la ayuda mutua y la responsabilidad compartida; y las estaciones de aprendizaje y grupos interactivos, que facilitan la atención a la diversidad y el aprendizaje activo mediante la manipulación, la experimentación y el diálogo.</p>\n<p>De este modo, “Sirenas” ofrece un entorno dinámico, inclusivo y motivador, en el que el alumnado aprende haciendo, compartiendo y disfrutando del proceso.<br /> <br /> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778008381129-0nb1i6un3</odePageId>
+  <odeParentPageId>page-1778007034651-s9tc1no6j</odeParentPageId>
+  <pageName>ABP Aprendizaje basado en Proyectos</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ABP Aprendizaje basado en Proyectos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778008381129-0nb1i6un3</odePageId>
+      <odeBlockId>block-1778008478711-hn1clqtg7</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778008381129-0nb1i6un3</odePageId>
+          <odeBlockId>block-1778008478711-hn1clqtg7</odeBlockId>
+          <odeIdeviceId>idevice-1778008478709-i4l1k9p9g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La SdA “Sirenas”, inspirada en un poema de Ángel González, se desarrolla mediante una metodología activa basada en el ABP, partiendo de una situación inicial altamente motivadora. El proyecto arranca con la aparición de un mensaje en una botella, acompañado de la llegada de Coco, una tortuga amiga de las sirenas, que pide ayuda al alumnado. Este elemento narrativo genera sorpresa, curiosidad y una implicación emocional inmediata.</p>
+<p>A partir de este punto de partida, el alumnado se convierte en protagonista de su aprendizaje, iniciando un proceso en el que investiga, imagina, experimenta y crea para dar respuesta al reto planteado. Se fomenta un aprendizaje globalizado, integrando lenguaje oral, expresión artística, movimiento, juego y recursos digitales.</p>
+<p><img src="{{context_path}}/content/resources/tortuga coco.jpg" title="Mascota COCO" width="220" height="220" alt="Mascota Proyecto freepik" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>El trabajo se organiza de forma cooperativa, favoreciendo la participación, el diálogo y la construcción conjunta del conocimiento, mientras que el docente actúa como guía y acompañante, facilitando apoyos y orientando el proceso.</p>
+<p>Además, se incorporan elementos motivadores como la gamificación (“El camino de las sirenas”) y la creación de productos finales significativos (podcast, libro de proyecto), que dan sentido al aprendizaje y refuerzan la implicación del alumnado desde el inicio hasta el cierre del proyecto.<br /> <br /> <br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778008478709-i4l1k9p9g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La SdA “Sirenas”, inspirada en un poema de Ángel González, se desarrolla mediante una metodología activa basada en el ABP, partiendo de una situación inicial altamente motivadora. El proyecto arranca con la aparición de un mensaje en una botella, acompañado de la llegada de Coco, una tortuga amiga de las sirenas, que pide ayuda al alumnado. Este elemento narrativo genera sorpresa, curiosidad y una implicación emocional inmediata.</p>\n<p>A partir de este punto de partida, el alumnado se convierte en protagonista de su aprendizaje, iniciando un proceso en el que investiga, imagina, experimenta y crea para dar respuesta al reto planteado. Se fomenta un aprendizaje globalizado, integrando lenguaje oral, expresión artística, movimiento, juego y recursos digitales.</p>\n<p><img src=\"{{context_path}}/content/resources/tortuga coco.jpg\" title=\"Mascota COCO\" width=\"220\" height=\"220\" alt=\"Mascota Proyecto freepik\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>El trabajo se organiza de forma cooperativa, favoreciendo la participación, el diálogo y la construcción conjunta del conocimiento, mientras que el docente actúa como guía y acompañante, facilitando apoyos y orientando el proceso.</p>\n<p>Además, se incorporan elementos motivadores como la gamificación (“El camino de las sirenas”) y la creación de productos finales significativos (podcast, libro de proyecto), que dan sentido al aprendizaje y refuerzan la implicación del alumnado desde el inicio hasta el cierre del proyecto.<br /> <br /> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778008394402-w5co6rz3s</odePageId>
+  <odeParentPageId>page-1778007034651-s9tc1no6j</odeParentPageId>
+  <pageName>Gamificación</pageName>
+  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Gamificación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778008433065-inwigz8f5</odePageId>
+  <odeParentPageId>page-1778007034651-s9tc1no6j</odeParentPageId>
+  <pageName>Actividades educativas de Éxito</pageName>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades educativas de Éxito</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778008433065-inwigz8f5</odePageId>
+      <odeBlockId>block-1778008752923-mehvevdti</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778008433065-inwigz8f5</odePageId>
+          <odeBlockId>block-1778008752923-mehvevdti</odeBlockId>
+          <odeIdeviceId>idevice-1778008752920-x39349eya</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En la SdA “Sirenas”, inspirada en un poema de Ángel González, se incorporan Actuaciones Educativas de Éxito (AEE) que favorecen la participación activa del alumnado y la implicación de las familias en el proceso educativo.</p>
+<p>Se desarrollan grupos interactivos quincenales con familias, organizados en tres tipos de actividades rotativas:</p>
+<p>Lógica-matemática, donde el alumnado participa en juegos de clasificación, seriación, conteo o resolución de pequeños retos adaptados al contexto del proyecto (conchas, peces, elementos del mar…).<br />Juegos cooperativos, centrados en la colaboración, el respeto de turnos y la consecución de objetivos comunes, reforzando habilidades sociales y emocionales.<br />Lectoescritura, con propuestas de conciencia fonológica, reconocimiento de palabras, escritura emergente y actividades vinculadas al poema y al vocabulario del proyecto.<br />Cada grupo es dinamizado por una persona adulta (familiares o voluntariado), lo que permite aumentar las interacciones, ofrecer una atención más personalizada y favorecer un aprendizaje inclusivo. El alumnado rota por las distintas actividades, participando de forma activa y cooperativa.</p>
+<p>Además, se incorpora una tertulia dialógica con alumnado de 1º de Educación Primaria en torno al poema “Sirenas”, donde se promueve el diálogo igualitario, la escucha y la expresión de ideas. Esta interacción entre niveles enriquece el aprendizaje, favorece la competencia lingüística y refuerza los vínculos dentro del centro.</p>
+<p>Estas actuaciones contribuyen a generar un entorno de aprendizaje participativo, inclusivo y conectado con la comunidad, potenciando el éxito educativo de todo el alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778008752920-x39349eya","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la SdA “Sirenas”, inspirada en un poema de Ángel González, se incorporan Actuaciones Educativas de Éxito (AEE) que favorecen la participación activa del alumnado y la implicación de las familias en el proceso educativo.</p>\n<p>Se desarrollan grupos interactivos quincenales con familias, organizados en tres tipos de actividades rotativas:</p>\n<p>Lógica-matemática, donde el alumnado participa en juegos de clasificación, seriación, conteo o resolución de pequeños retos adaptados al contexto del proyecto (conchas, peces, elementos del mar…).<br />Juegos cooperativos, centrados en la colaboración, el respeto de turnos y la consecución de objetivos comunes, reforzando habilidades sociales y emocionales.<br />Lectoescritura, con propuestas de conciencia fonológica, reconocimiento de palabras, escritura emergente y actividades vinculadas al poema y al vocabulario del proyecto.<br />Cada grupo es dinamizado por una persona adulta (familiares o voluntariado), lo que permite aumentar las interacciones, ofrecer una atención más personalizada y favorecer un aprendizaje inclusivo. El alumnado rota por las distintas actividades, participando de forma activa y cooperativa.</p>\n<p>Además, se incorpora una tertulia dialógica con alumnado de 1º de Educación Primaria en torno al poema “Sirenas”, donde se promueve el diálogo igualitario, la escucha y la expresión de ideas. Esta interacción entre niveles enriquece el aprendizaje, favorece la competencia lingüística y refuerza los vínculos dentro del centro.</p>\n<p>Estas actuaciones contribuyen a generar un entorno de aprendizaje participativo, inclusivo y conectado con la comunidad, potenciando el éxito educativo de todo el alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778008449812-1dbbcinml</odePageId>
+  <odeParentPageId>page-1778007034651-s9tc1no6j</odeParentPageId>
+  <pageName>Estaciones de aprendizaje</pageName>
+  <odeNavStructureOrder>20</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Estaciones de aprendizaje</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778008449812-1dbbcinml</odePageId>
+      <odeBlockId>block-1778008884006-phbwa75ew</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778008449812-1dbbcinml</odePageId>
+          <odeBlockId>block-1778008884006-phbwa75ew</odeBlockId>
+          <odeIdeviceId>idevice-1778008884002-cjg6ix3zz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En la SdA “Sirenas”, inspirada en un poema de Ángel González, se organizan cuatro estaciones de aprendizaje que combinan metodología activa, juego y gamificación, favoreciendo la motivación y la participación del alumnado.</p>
+<p>El alumnado rota en pequeños grupos por las siguientes estaciones:</p>
+<p>Dos estaciones de trabajo-juego autónomo, diseñadas con propuestas gamificadas y materiales manipulativos. En ellas se utilizan juegos de mesa, puzles, encajables, cartas y actividades de composición de palabras, vinculadas al vocabulario del proyecto (sirenas, mar, elementos naturales…). Estas estaciones permiten aprender jugando, desarrollando la lógica, la atención, la conciencia fonológica y la iniciación a la lectoescritura.<br />Una estación guiada por la tutora, donde se profundiza en la comprensión del poema, la expresión oral, la dramatización y la escritura emergente. Aquí se integran también dinámicas de la gamificación “El camino de las sirenas”, planteando pequeños retos que el alumnado debe superar con apoyo.<br />Una estación con la PT (Pedagogía Terapéutica), centrada en el refuerzo y la atención individualizada, utilizando materiales adaptados, apoyos visuales y actividades manipulativas que facilitan el acceso al aprendizaje y la participación de todo el alumnado.<br />Todas las estaciones se enmarcan dentro de la narrativa del proyecto, de modo que cada actividad forma parte de los retos para ayudar a las sirenas, aumentando la implicación emocional. Esta organización permite trabajar de forma lúdica, inclusiva y significativa, respetando los distintos ritmos de aprendizaje y potenciando la autonomía.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778008884002-cjg6ix3zz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la SdA “Sirenas”, inspirada en un poema de Ángel González, se organizan cuatro estaciones de aprendizaje que combinan metodología activa, juego y gamificación, favoreciendo la motivación y la participación del alumnado.</p>\n<p>El alumnado rota en pequeños grupos por las siguientes estaciones:</p>\n<p>Dos estaciones de trabajo-juego autónomo, diseñadas con propuestas gamificadas y materiales manipulativos. En ellas se utilizan juegos de mesa, puzles, encajables, cartas y actividades de composición de palabras, vinculadas al vocabulario del proyecto (sirenas, mar, elementos naturales…). Estas estaciones permiten aprender jugando, desarrollando la lógica, la atención, la conciencia fonológica y la iniciación a la lectoescritura.<br />Una estación guiada por la tutora, donde se profundiza en la comprensión del poema, la expresión oral, la dramatización y la escritura emergente. Aquí se integran también dinámicas de la gamificación “El camino de las sirenas”, planteando pequeños retos que el alumnado debe superar con apoyo.<br />Una estación con la PT (Pedagogía Terapéutica), centrada en el refuerzo y la atención individualizada, utilizando materiales adaptados, apoyos visuales y actividades manipulativas que facilitan el acceso al aprendizaje y la participación de todo el alumnado.<br />Todas las estaciones se enmarcan dentro de la narrativa del proyecto, de modo que cada actividad forma parte de los retos para ayudar a las sirenas, aumentando la implicación emocional. Esta organización permite trabajar de forma lúdica, inclusiva y significativa, respetando los distintos ritmos de aprendizaje y potenciando la autonomía.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778008463393-087fnkztz</odePageId>
+  <odeParentPageId>page-1778007034651-s9tc1no6j</odeParentPageId>
+  <pageName>Trabajo cooperativo</pageName>
+  <odeNavStructureOrder>21</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Trabajo cooperativo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778008463393-087fnkztz</odePageId>
+      <odeBlockId>block-1778009033386-cdegxhbas</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778008463393-087fnkztz</odePageId>
+          <odeBlockId>block-1778009033386-cdegxhbas</odeBlockId>
+          <odeIdeviceId>idevice-1778009033384-09r1c33ci</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En la SdA “Sirenas”, inspirada en un poema de Ángel González, el trabajo cooperativo se configura como un eje fundamental del proceso de enseñanza-aprendizaje, favoreciendo la participación activa, la interacción y la construcción conjunta del conocimiento.</p>
+<p>Este enfoque se concreta en distintos momentos y espacios del aula:</p>
+<p><strong>En los grupos interactivos con familias</strong>, el alumnado trabaja en pequeños equipos heterogéneos, resolviendo tareas de lógica-matemática, juegos cooperativos y lectoescritura. La presencia de personas adultas dinamizadoras potencia el diálogo, la ayuda mutua y la inclusión.<br /><strong>El panel de proyecto s</strong>e construye de forma colectiva mediante mapas mentales, donde se recogen ideas, aprendizajes y descubrimientos, promoviendo la reflexión compartida y la escucha activa.<br /><strong>En la asamblea de trabajo,</strong> el alumnado participa en la toma de decisiones, propone ideas y organiza el desarrollo del proyecto, respetando turnos y normas de comunicación.<br />Durante las<strong> estaciones de aprendizaje y la gamificación</strong>, los niños y niñas cooperan para superar retos, resolver actividades y avanzar en la historia del proyecto.</p>
+<p><br />Para favorecer una participación equitativa y estructurada, se incorpora la asignación de roles cooperativos, que rotan periódicamente:</p>
+<ul>
+<li>Encargado/a de material, responsable de cuidar, repartir y recoger los recursos.</li>
+<li>Portavoz, que comunica las ideas y acuerdos del grupo al resto de la clase.</li>
+<li>Encargado/a del silencio, que ayuda a mantener un clima adecuado de trabajo y recuerda las normas de convivencia.</li>
+</ul>
+<p>Estos roles facilitan la implicación de todo el alumnado, fomentan la responsabilidad individual dentro del grupo y desarrollan habilidades sociales y organizativas, contribuyendo a un clima de aula inclusivo, participativo y respetuoso.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778009033384-09r1c33ci","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la SdA “Sirenas”, inspirada en un poema de Ángel González, el trabajo cooperativo se configura como un eje fundamental del proceso de enseñanza-aprendizaje, favoreciendo la participación activa, la interacción y la construcción conjunta del conocimiento.</p>\n<p>Este enfoque se concreta en distintos momentos y espacios del aula:</p>\n<p><strong>En los grupos interactivos con familias</strong>, el alumnado trabaja en pequeños equipos heterogéneos, resolviendo tareas de lógica-matemática, juegos cooperativos y lectoescritura. La presencia de personas adultas dinamizadoras potencia el diálogo, la ayuda mutua y la inclusión.<br /><strong>El panel de proyecto s</strong>e construye de forma colectiva mediante mapas mentales, donde se recogen ideas, aprendizajes y descubrimientos, promoviendo la reflexión compartida y la escucha activa.<br /><strong>En la asamblea de trabajo,</strong> el alumnado participa en la toma de decisiones, propone ideas y organiza el desarrollo del proyecto, respetando turnos y normas de comunicación.<br />Durante las<strong> estaciones de aprendizaje y la gamificación</strong>, los niños y niñas cooperan para superar retos, resolver actividades y avanzar en la historia del proyecto.</p>\n<p><br />Para favorecer una participación equitativa y estructurada, se incorpora la asignación de roles cooperativos, que rotan periódicamente:</p>\n<ul>\n<li>Encargado/a de material, responsable de cuidar, repartir y recoger los recursos.</li>\n<li>Portavoz, que comunica las ideas y acuerdos del grupo al resto de la clase.</li>\n<li>Encargado/a del silencio, que ayuda a mantener un clima adecuado de trabajo y recuerda las normas de convivencia.</li>\n</ul>\n<p>Estos roles facilitan la implicación de todo el alumnado, fomentan la responsabilidad individual dentro del grupo y desarrollan habilidades sociales y organizativas, contribuyendo a un clima de aula inclusivo, participativo y respetuoso.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778007051052-4tdj379aq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName> 4.Vinculación con los proyectos y programas del centro:</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> 4.Vinculación con los proyectos y programas del centro:</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778007051052-4tdj379aq</odePageId>
+      <odeBlockId>block-1778008342499-4b2c3c9ld</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778007051052-4tdj379aq</odePageId>
+          <odeBlockId>block-1778008342499-4b2c3c9ld</odeBlockId>
+          <odeIdeviceId>idevice-1778008342497-vulmfewwv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La SdA “Sirenas”, inspirada en un poema de Ángel González, se integra de manera coherente dentro de los proyectos y programas del centro, favoreciendo la continuidad pedagógica y el enfoque globalizado del aprendizaje.</p>
+<p>En relación con el<strong> PLEI (Plan de Lectura, Escritura e Investigación)</strong>, la situación de aprendizaje contribuye al desarrollo del gusto por la lectura y la iniciación en la escritura a través del trabajo con textos literarios, especialmente la poesía asturiana, así como mediante la producción de textos orales y escritos (podcast, escritura emergente, libro de proyecto).</p>
+<p>Respecto al <strong>PAD (Programa de Atención a la Diversidad),</strong> la propuesta se adapta a las características del alumnado mediante metodologías activas como el ABP, el uso de apoyos visuales, actividades multinivel y trabajo cooperativo, garantizando la participación de todo el alumnado y favoreciendo la inclusión.</p>
+<p>En cuanto al <strong>PDC (Proyecto Digital de Centro),</strong> se integra el uso de herramientas digitales como la creación del podcast y la gamificación en Genially, promoviendo una iniciación significativa y guiada en la competencia digital.</p>
+<p>Esta SdA se enmarca además en la<strong> línea metodológica del centro</strong>, basado en el trabajo por proyectos, y se vincula directamente con el proyecto trimestral, centrado en la literatura asturiana, así como con el proyecto anual “El arte en nuestra tierrina (Asturias)”. Durante el primer y segundo trimestre se han trabajado la música y la pintura asturiana, respectivamente, y en este tercer trimestre el enfoque se dirige hacia la literatura, dando sentido y continuidad al proceso.</p>
+<p>Asimismo, se conecta con el <strong>plan de coeducación</strong>, donde previamente se han abordado artistas asturianas (pintoras, escritoras y músicas) con motivo del 8M Día Internacional de la Mujer. En esta línea, durante la Semana de la Coeducación en mayo se desarrollará el proyecto “El jardín de las musas”, en el que cada nivel trabaja una musa diferente; en este caso, el alumnado de este nivel se centra en Terpsícore, musa de la danza, incorporando el lenguaje corporal y el movimiento como forma de expresión.</p>
+<p>Finalmente, la SdA también se vincula con el i<strong>mpulso del uso de la llingua asturiana</strong> en Educación Infantil, integrando vocabulario, expresiones y elementos culturales propios, reforzando la identidad lingüística y cultural del entorno.</p>
+<p>De este modo, “Sirenas” no se plantea como una experiencia aislada, sino como una propuesta plenamente integrada en la vida del centro, conectada con sus líneas estratégicas, proyectos globales y valores educativos.</p>
+<p><br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778008342497-vulmfewwv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La SdA “Sirenas”, inspirada en un poema de Ángel González, se integra de manera coherente dentro de los proyectos y programas del centro, favoreciendo la continuidad pedagógica y el enfoque globalizado del aprendizaje.</p>\n<p>En relación con el<strong> PLEI (Plan de Lectura, Escritura e Investigación)</strong>, la situación de aprendizaje contribuye al desarrollo del gusto por la lectura y la iniciación en la escritura a través del trabajo con textos literarios, especialmente la poesía asturiana, así como mediante la producción de textos orales y escritos (podcast, escritura emergente, libro de proyecto).</p>\n<p>Respecto al <strong>PAD (Programa de Atención a la Diversidad),</strong> la propuesta se adapta a las características del alumnado mediante metodologías activas como el ABP, el uso de apoyos visuales, actividades multinivel y trabajo cooperativo, garantizando la participación de todo el alumnado y favoreciendo la inclusión.</p>\n<p>En cuanto al <strong>PDC (Proyecto Digital de Centro),</strong> se integra el uso de herramientas digitales como la creación del podcast y la gamificación en Genially, promoviendo una iniciación significativa y guiada en la competencia digital.</p>\n<p>Esta SdA se enmarca además en la<strong> línea metodológica del centro</strong>, basado en el trabajo por proyectos, y se vincula directamente con el proyecto trimestral, centrado en la literatura asturiana, así como con el proyecto anual “El arte en nuestra tierrina (Asturias)”. Durante el primer y segundo trimestre se han trabajado la música y la pintura asturiana, respectivamente, y en este tercer trimestre el enfoque se dirige hacia la literatura, dando sentido y continuidad al proceso.</p>\n<p>Asimismo, se conecta con el <strong>plan de coeducación</strong>, donde previamente se han abordado artistas asturianas (pintoras, escritoras y músicas) con motivo del 8M Día Internacional de la Mujer. En esta línea, durante la Semana de la Coeducación en mayo se desarrollará el proyecto “El jardín de las musas”, en el que cada nivel trabaja una musa diferente; en este caso, el alumnado de este nivel se centra en Terpsícore, musa de la danza, incorporando el lenguaje corporal y el movimiento como forma de expresión.</p>\n<p>Finalmente, la SdA también se vincula con el i<strong>mpulso del uso de la llingua asturiana</strong> en Educación Infantil, integrando vocabulario, expresiones y elementos culturales propios, reforzando la identidad lingüística y cultural del entorno.</p>\n<p>De este modo, “Sirenas” no se plantea como una experiencia aislada, sino como una propuesta plenamente integrada en la vida del centro, conectada con sus líneas estratégicas, proyectos globales y valores educativos.</p>\n<p><br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778007065630-4ges481vh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName> 5. Actividades complementarias y extraescolares.  </pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> 5. Actividades complementarias y extraescolares.  </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778007065630-4ges481vh</odePageId>
+      <odeBlockId>block-1778009190234-tbrztkubn</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778007065630-4ges481vh</odePageId>
+          <odeBlockId>block-1778009190234-tbrztkubn</odeBlockId>
+          <odeIdeviceId>idevice-1778009190233-njc6j3hcx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La SdA “Sirenas”, inspirada en un poema de Ángel González, se enriquece con diversas actividades complementarias que amplían el aprendizaje más allá del aula y refuerzan el vínculo con la comunidad educativa.</p>
+<p>Se incluye un <strong>cuentacuentos sobre la obra de Ángel González y el poema “Sirenas</strong>”, ofrecido por el Ayuntamiento de Oviedo, que acerca la literatura de forma vivencial y significativa. Asimismo, el centro participa en la campaña “Títeres y Escuela”, favoreciendo el contacto con el teatro y la expresión artística.</p>
+<p>El proyecto se complementa con la <strong>visita de una poetisa asturiana </strong>al centro, así como con un <strong>encuentro con la autora Gloria Sagasti</strong>, en torno a su obra Ramón Román Rodrigo, acompañado de una sesión de cuentacuentos, fomentando el gusto por la lectura y la creación literaria.</p>
+<p>Además, se desarrollan<strong> talleres con familias, </strong>donde padres y madres participan activamente en actividades del proyecto (manualidades marinas, juegos de palabras, pequeñas dramatizaciones o apoyo en la elaboración del libro de proyecto). Estos talleres favorecen la implicación familiar, refuerzan los aprendizajes y fortalecen la relación escuela-familia.</p>
+<p>Por otro lado, se organiza una <strong>salida a SACO Semana del Audiovisual Contemporáneo de Oviedo</strong>, acercando al alumnado al lenguaje audiovisual y a nuevas formas de expresión artística.</p>
+<p>En conjunto, estas actividades complementarias enriquecen la experiencia educativa, conectan el aprendizaje con el entorno cultural y fomentan la participación activa de toda la comunidad educativa.<br /> <br /> <br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778009190233-njc6j3hcx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La SdA “Sirenas”, inspirada en un poema de Ángel González, se enriquece con diversas actividades complementarias que amplían el aprendizaje más allá del aula y refuerzan el vínculo con la comunidad educativa.</p>\n<p>Se incluye un <strong>cuentacuentos sobre la obra de Ángel González y el poema “Sirenas</strong>”, ofrecido por el Ayuntamiento de Oviedo, que acerca la literatura de forma vivencial y significativa. Asimismo, el centro participa en la campaña “Títeres y Escuela”, favoreciendo el contacto con el teatro y la expresión artística.</p>\n<p>El proyecto se complementa con la <strong>visita de una poetisa asturiana </strong>al centro, así como con un <strong>encuentro con la autora Gloria Sagasti</strong>, en torno a su obra Ramón Román Rodrigo, acompañado de una sesión de cuentacuentos, fomentando el gusto por la lectura y la creación literaria.</p>\n<p>Además, se desarrollan<strong> talleres con familias, </strong>donde padres y madres participan activamente en actividades del proyecto (manualidades marinas, juegos de palabras, pequeñas dramatizaciones o apoyo en la elaboración del libro de proyecto). Estos talleres favorecen la implicación familiar, refuerzan los aprendizajes y fortalecen la relación escuela-familia.</p>\n<p>Por otro lado, se organiza una <strong>salida a SACO Semana del Audiovisual Contemporáneo de Oviedo</strong>, acercando al alumnado al lenguaje audiovisual y a nuevas formas de expresión artística.</p>\n<p>En conjunto, estas actividades complementarias enriquecen la experiencia educativa, conectan el aprendizaje con el entorno cultural y fomentan la participación activa de toda la comunidad educativa.<br /> <br /> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778007080334-3c7ljy198</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName> 6. Incluye la atribución y fichero descargable. </pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> 6. Incluye la atribución y fichero descargable. </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778007080334-3c7ljy198</odePageId>
+      <odeBlockId>block-1778009591201-1sq4k3qer</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778007080334-3c7ljy198</odePageId>
+          <odeBlockId>block-1778009591201-1sq4k3qer</odeBlockId>
+          <odeIdeviceId>idevice-1778009591198-8b9d2ovci</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Atribución y licencia</strong><br />La presente Situación de Aprendizaje “Sirenas”, inspirada en un poema de Ángel González, se comparte bajo licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).</p>
+<p>Esto implica que cualquier persona puede usar, adaptar y compartir este material, siempre que:</p>
+<ul>
+<li>Se reconozca la autoría original.</li>
+<li>Las posibles obras derivadas se compartan bajo la misma licencia.</li>
+</ul>
+<p><br /></p>
+<p>Descarga del fichero<br />Se incluye un enlace de descarga del archivo en formato .elp, que permite su uso y edición en eXeLearning:</p>
+<p>Descargar Situación de Aprendizaje “Sirenas” (.elpx)</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778009591198-8b9d2ovci","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Atribución y licencia</strong><br />La presente Situación de Aprendizaje “Sirenas”, inspirada en un poema de Ángel González, se comparte bajo licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).</p>\n<p>Esto implica que cualquier persona puede usar, adaptar y compartir este material, siempre que:</p>\n<ul>\n<li>Se reconozca la autoría original.</li>\n<li>Las posibles obras derivadas se compartan bajo la misma licencia.</li>\n</ul>\n<p><br /></p>\n<p>Descarga del fichero<br />Se incluye un enlace de descarga del archivo en formato .elp, que permite su uso y edición en eXeLearning:</p>\n<p>Descargar Situación de Aprendizaje “Sirenas” (.elpx)</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778007080334-3c7ljy198</odePageId>
+      <odeBlockId>block-1778009970903-ibag6ojlr</odeBlockId>
+      <blockName>Descargar SdA basada en ABP Sirenas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778007080334-3c7ljy198</odePageId>
+          <odeBlockId>block-1778009970903-ibag6ojlr</odeBlockId>
+          <odeIdeviceId>idevice-1778009970900-gemhjea72</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">ABP EI5A SIRENAS ÁNGEL GÓNZALEZ</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">La Situación de Aprendizaje “Sirenas”, inspirada en un poema de Ángel González, se justifica por la necesidad de acercar al alumnado de 5 años a la literatura asturiana desde una perspectiva significativa, creativa y adaptada a su desarrollo. A través de la metodología de Aprendizaje Basado en Proyectos (ABP), se favorece el descubrimiento del entorno cultural próximo, conectando la poesía con el imaginario infantil (el mar, las sirenas, la fantasía) y fomentando el gusto por el lenguaje literario desde edades tempranas.
+
+El impacto esperado se centra en el desarrollo de la expresión oral y artística, la imaginación y la sensibilidad estética, así como en el conocimiento y valoración del patrimonio cultural asturiano. Además, se promueve el trabajo cooperativo, la participación activa y la construcción de aprendizajes significativos, contribuyendo al desarrollo integral del alumnado.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Ana López-Escobar Rodríguez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#105675;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
