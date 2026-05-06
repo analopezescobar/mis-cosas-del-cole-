@@ -4,6 +4,149 @@ body.exe-export {
     padding: 1em 0;
 }
 
+/* Project homepage enhancements */
+.exe-web-site img {
+    max-width: 100%;
+    height: auto;
+}
+
+.home-hero {
+    display: grid;
+    grid-template-columns: minmax(0, 0.95fr) minmax(280px, 1.05fr);
+    gap: 2rem;
+    align-items: center;
+    margin: 0 0 1.5rem;
+    padding: 1.5rem;
+    border: 1px solid #c8e3e8;
+    border-radius: 8px;
+    background: linear-gradient(135deg, #f5fcff 0%, #fff8ec 100%);
+}
+
+.home-kicker {
+    margin: 0 0 0.75rem;
+    color: #8a4f16;
+    font-size: 0.95rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.home-hero h2 {
+    margin: 0 0 1rem;
+    color: #12364a;
+    font-size: clamp(2rem, 4vw, 3.5rem);
+    line-height: 1.05;
+}
+
+.home-hero p {
+    color: #244b5a;
+    font-size: 1.08rem;
+    line-height: 1.6;
+}
+
+.home-hero__media {
+    margin: 0;
+}
+
+.home-hero__media img {
+    display: block;
+    width: 100%;
+    border: 1px solid #b7d8df;
+    border-radius: 8px;
+    box-shadow: 0 14px 28px rgba(18, 54, 74, 0.12);
+}
+
+.home-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: 1.25rem;
+}
+
+.exe-content .home-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 44px;
+    padding: 0.7rem 1rem;
+    border: 1px solid #0b7c83;
+    border-radius: 6px;
+    background: #0b7c83;
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.exe-content .home-button:hover,
+.exe-content .home-button:focus {
+    color: #fff;
+    background: #075f66;
+    text-decoration: none;
+}
+
+.exe-content .home-button--secondary {
+    background: #fff;
+    color: #0b6670;
+}
+
+.exe-content .home-button--secondary:hover,
+.exe-content .home-button--secondary:focus {
+    color: #064f57;
+    background: #eef9fa;
+}
+
+.home-summary {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+    margin: 0 0 1.5rem;
+}
+
+.home-summary article {
+    padding: 1rem;
+    border-left: 5px solid #e39b27;
+    border-radius: 6px;
+    background: #fff;
+    box-shadow: 0 8px 18px rgba(18, 54, 74, 0.08);
+}
+
+.home-summary strong,
+.home-summary span {
+    display: block;
+}
+
+.home-summary strong {
+    margin-bottom: 0.35rem;
+    color: #12364a;
+}
+
+.home-summary span {
+    color: #375967;
+}
+
+@media (max-width: 900px) {
+    .home-hero {
+        grid-template-columns: 1fr;
+    }
+
+    .home-summary {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .home-hero {
+        padding: 1rem;
+    }
+
+    .home-hero h2 {
+        font-size: 2rem;
+    }
+
+    .home-button {
+        width: 100%;
+    }
+}
+
 body.exe-web-site {
     padding: 0;
 }
